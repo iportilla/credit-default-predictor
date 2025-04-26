@@ -151,7 +151,7 @@ Send JSON payload:
 
 ## Screenshots (Optional)
 
-> _Add screenshots of the Streamlit UI uploading JSON, and prediction results displayed nicely._
+> _Screenshots of the Streamlit UI, and prediction results displayed nicely._
 <img width="715" alt="image" src="https://github.com/user-attachments/assets/e49fecf1-3449-406e-b1cd-e3d9b99d6a56" />
 
 <img width="766" alt="image" src="https://github.com/user-attachments/assets/026cffe7-e32d-4379-9500-bbef1cc9640f" />
