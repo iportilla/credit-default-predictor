@@ -171,6 +171,6 @@ See `LICENSE` file for more information.
 
 ## Author
 
-- **Your Name** - [iportilla](https://github.com/iportilla)
+- **Ivan Portilla** - [iportilla](https://github.com/iportilla)
 
 ---
